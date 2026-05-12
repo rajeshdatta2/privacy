@@ -10,7 +10,7 @@ We believe in strict data minimization. The only user infrastructure properties 
 - Expense Ledger Entries: Any numbers, transaction tags, descriptions, or budget calculations you type into the application are compiled and stored safely.
 
 3. DATA STORAGE AND SECURITY
-- Local Tracking: All financial entries are cached locally on your physical device memory inside a private, encrypted SQLite storage structure file directory.
+- Local Tracking: All financial entries are cached locally on your physical device memory inside a secure, private SQLite database storage file directory..
 - Cloud Synchronization: For verified Premium Tier accounts, data rows are transported securely over encrypted network client channels (HTTPS) and mirrored onto enterprise-grade cloud database servers powered by Microsoft Azure.
 
 4. DATA PRIVACY AND THIRD-PARTY POLICY
