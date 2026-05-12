@@ -18,8 +18,8 @@ We believe in strict data minimization. The only user infrastructure properties 
 - Zero Data Selling: Your bookkeeping spreadsheets, registration emails, and tracking analytics are completely private. We never share, trade, rent, or sell your financial ledgers to third-party advertising algorithms.
 - Payment Data Safety: All financial transaction routing and subscription processing arrays are driven directly via the Razorpay payment gateway API. We do not store credit card integers or local bank branch passwords.
 
-5. USER CONTROL AND DELETION RIGHTS
-You possess full structural rights over your profile metadata. If you wish to delete your account record entirely from our sync tables, you can trigger a wipe execution sequence directly within the app settings dashboard interface, or contact our developer channel at rajeshdat@rediffmail.com.
+5. USER CONTROL AND AUTOMATED DELETION RIGHTS
+You possess full structural rights over your profile metadata. Desi Paisa Khata provides a fully automated data elimination system to ensure you maintain complete ownership of your ledger. You can trigger a full database wipe execution sequence directly by clicking the "Delete Account" button inside the app settings panel. This action instantly purges your local device history and broadcasts a secure terminal command to completely erase your user profile records from our Azure cloud sync tables in real time.
 
 6. CONTACT US
 For any compliance queries regarding this data privacy manifesto, reach out directly to our independent registration terminal:
