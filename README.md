@@ -29,3 +29,6 @@ For any compliance queries or requests regarding this data privacy manifesto, re
 - **Developer:** Rajesh Datta
 - **Official Support Email:** support@desipaisakhata.in
 - **Web Portal Location:** https://desipaisakhata.in
+
+## 8. REFUND POLICY
+No Refunds: Due to the digital nature of our automated streaming services and server cloud syncing, all purchases are final. We do not offer refunds or credits for any subscription months or year or unused periods. Premium customer records will remain in view mode after your end date of subscription that is you will not be able to add any new expense records.
