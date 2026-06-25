@@ -15,14 +15,14 @@ We believe in strict data minimization. The only user infrastructure properties 
 
 ## 4. DATA PRIVACY AND THIRD-PARTY POLICY
 - **Zero SMS Scraping:** Unlike alternative tools, DesiPaisaKhata does NOT read, scan, or scrape your private mobile network SMS data lines or banking transaction texts.
-- **Zero Data Selling:** Your data, registration emails, and tracking analytics are completely private. We never share, trade, rent, or sell your financial data to third-party advertising algorithms.
-- **Payment Data Safety:** All financial transaction routing and subscription processing arrays are driven directly via the secure Razorpay payment gateway API and Google Play Billing infrastructure. We do not store credit card integers or local bank branch passwords.
+- **Zero Data Selling:** Your data, registration emails, and tracking analytics are completely private. We never share, trade, rent, or sell your data to third-party advertising algorithms.
+- **Payment Data Safety:** All  transaction and subscription processing are driven directly via the secure Razorpay payment gateway API and Google Play Billing infrastructure. We do not store credit card integers or local bank branch passwords.
 
-## 5. AUTOMATED LEDGER REPORTING
+## 5. AUTOMATED REPORTING
 To help you stay completely on top of your household expenses, our server system compiles automated weekly (Monday summaries) and monthly reports. These summary files are delivered automatically straight to your registered email inbox via our secure cloud email delivery pipeline.
 
 ## 6. USER CONTROL AND AUTOMATED DELETION RIGHTS
-You possess full structural rights over your profile metadata. DesiPaisaKhata provides a fully automated data elimination system to ensure you maintain complete ownership of your ledger. You can trigger a full database wipe execution sequence directly by clicking the "Delete Account" button inside the app settings panel. This action instantly purges your local device history and broadcasts a secure terminal command to completely erase your user profile records from our Azure cloud sync tables in real time.
+You possess full structural rights over your profile metadata. DesiPaisaKhata provides a fully automated data elimination system to ensure you maintain complete ownership. You can trigger a full database wipe for your user email specific records  directly by clicking the "Delete Account" button inside the app settings panel. This action instantly purges your local device history and broadcasts a secure terminal command to completely erase your user profile records from our Azure cloud sync tables in real time.
 
 ## 7. CONTACT US & COMPLIANCE Hub
 For any compliance queries or requests regarding this data privacy manifesto, reach out directly to our independent registration terminal:
