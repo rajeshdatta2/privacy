@@ -1,7 +1,7 @@
 DESIPAISAKHATA – PRIVACY POLICY
 
 ## 1. INTRODUCTION
-Welcome to DesiPaisaKhata ("we", "our", or "us"). We operate as an Individual Independent Developer entity. We are deeply committed to protecting your personal data privacy rights. This Privacy Policy outlines exactly how we handle user data parameters for our mobile expense tracking software application.
+Welcome to DesiPaisaKhata ("we", "our", or "us"). App is owned and operated by RAJESH DATTA acting as an Individual Independent Developer. We are deeply committed to protecting your personal data privacy rights. This Privacy Policy outlines exactly how we handle user data parameters for our mobile expense tracking software application.
 
 ## 2. DATA WE COLLECT AND WHY
 We believe in strict data minimization. The only user infrastructure properties we handle are:
